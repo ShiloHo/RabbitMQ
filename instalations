@@ -1,0 +1,13 @@
+example DB (sqlite) - chinook.db:
+
+http://www.sqlitetutorial.net/sqlite-sample-database/
+
+
+python module:
+pika,csv,sqlite3,xml,json
+
+RabbitMQ:
+https://www.rabbitmq.com/
+https://www.vultr.com/docs/how-to-install-rabbitmq-on-ubuntu-16-04-47
+http://localhost:15672
+
