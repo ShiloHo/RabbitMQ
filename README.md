@@ -2,7 +2,7 @@
 
 1. sending requests to RabbitMQ.
 
-2.connect to sqlite3 DB and run request query that recieved from RabbitMQ.
+2. connect to sqlite3 DB and run request query that recieved from RabbitMQ.
  in case of TABLE request type it will create it immediately.
  handling CSV, JSON, XML file type.
 
